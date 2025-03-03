@@ -1,1 +1,1 @@
-# heroku-new-rishi
+https://dashboard.heroku.com/new?template=
